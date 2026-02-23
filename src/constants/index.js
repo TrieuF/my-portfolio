@@ -15,7 +15,7 @@ export const EXPERIENCES = [
     role: "Intern Agile Software Development & Business Intelligence",
     company: "BMW AG",
     description:
-        "Contributed to the agile development and support of web-based applications (Takt News, Schulungsbuchung, Taktboard) using Oracle APEX. Implemented full-stack features using SQL, PL/SQL, and modern web technologies. Personal achievement: Developed a custom Business Intelligence solution from scratch using QlikSense for incident report analysis and participated in all agile ceremonies including Dailies and Sprint Reviews.",
+        "Contributed to the agile development and support of web-based applications (Takt News, Schulungsbuchungsapp, Taktboard) using Oracle APEX. Implemented full-stack features using SQL, PL/SQL, and modern web technologies. Personal achievement: Developed a custom Business Intelligence solution from scratch using QlikSense for incident report analysis and participated in all agile ceremonies including Dailies and Sprint Reviews.",
     technologies: ["Oracle APEX", "SQL / PL-SQL", "QlikSense", "JavaScript", "Jira"],
   },
   {
