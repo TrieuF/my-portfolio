@@ -13,20 +13,20 @@ export const EXPERIENCES = [
   {
     year: "07/2024 - 12/2024",
     role: "Intern Agile Software Development & Business Intelligence",
-    company: "BMW AG, Regensburg",
+    company: "BMW AG",
     description:
         "Contributed to the agile development and support of web-based applications (Takt News, Schulungsbuchung, Taktboard) using Oracle APEX. Implemented full-stack features using SQL, PL/SQL, and modern web technologies. Developed a custom Business Intelligence solution from scratch using QlikSense for incident report analysis and participated in all agile ceremonies including Dailies and Sprint Reviews.",
     technologies: ["Oracle APEX", "SQL / PL-SQL", "QlikSense", "JavaScript", "Jira"],
   },
   {
-    year: "07/2017 - 07/2017",
+    year: "07/2018 - 07/2018",
     role: "Intern",
     company: "Kindergarten Heising",
     description: `1 week internship in a kindergarden`,
     technologies: ["Kindergarden"],
   },
   {
-    year: "07/2018 - 07/2018",
+    year: "07/2017 - 07/2017",
     role: "Intern",
     company: "Krones AG",
     description: `1 week internship in electrical engineering`,
