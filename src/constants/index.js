@@ -11,7 +11,7 @@ export const ABOUT_TEXT = "Hello! My name is Trieu Fu-Khai, and I am a Computer 
 
 export const EXPERIENCES = [
   {
-    year: "07/2024 - 12/2024",
+    year: "06/2024 - 12/2024",
     role: "Intern Agile Software Development & Business Intelligence",
     company: "BMW AG",
     description:
