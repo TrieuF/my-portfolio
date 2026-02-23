@@ -31,14 +31,6 @@ const Technologies = () => {
                 transition={{ duration: 1.5 }}
                 className="flex flex-wrap items-center justify-center gap-4">
 
-                <motion.div variants={iconVariants(2.5)} initial="initial" animate="animate" className="rounded-2xl border-4 border-neutral-800 p-4">
-                    <RiReactjsLine className="text-7xl text-[#61DAFB]"/>
-                </motion.div>
-
-                <motion.div variants={iconVariants(2)} initial="initial" animate="animate" className="rounded-2xl border-4 border-neutral-800 p-4">
-                    <RiSvelteLine className="text-7xl text-[#FF3E00]"/>
-                </motion.div>
-
                 <motion.div variants={iconVariants(1.5)} initial="initial" animate="animate" className="rounded-2xl border-4 border-neutral-800 p-4">
                     <SiC className="text-7xl text-[#A8B9CC]"/>
                 </motion.div>
@@ -61,6 +53,14 @@ const Technologies = () => {
 
                 <motion.div variants={iconVariants(2.0)} initial="initial" animate="animate" className="rounded-2xl border-4 border-neutral-800 p-4">
                     <DiCss3 className="text-7xl text-[#1572B6]"/>
+                </motion.div>
+
+                <motion.div variants={iconVariants(2.5)} initial="initial" animate="animate" className="rounded-2xl border-4 border-neutral-800 p-4">
+                    <RiReactjsLine className="text-7xl text-[#61DAFB]"/>
+                </motion.div>
+
+                <motion.div variants={iconVariants(2)} initial="initial" animate="animate" className="rounded-2xl border-4 border-neutral-800 p-4">
+                    <RiSvelteLine className="text-7xl text-[#FF3E00]"/>
                 </motion.div>
 
                 <motion.div variants={iconVariants(1.7)} initial="initial" animate="animate" className="rounded-2xl border-4 border-neutral-800 p-4">

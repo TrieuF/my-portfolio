@@ -31,7 +31,7 @@ const Hero = () => {
                             animate="visible"
                             className="pb-16 text-8xl tracking-tight lg:mt-16 lg:text-8xl font-thin"
                         >
-                            Hi, my Name is Fu-Khai
+                            Hi, I'm Fu-Khai
                         </motion.h1>
                         <motion.span
                             variants={container(0.5)}
